@@ -31,12 +31,6 @@ body {
     margin-bottom: 20px;
     line-height: 1.8;
 }
-
-.section {
-    margin-bottom: 20px;
-    border-bottom: 1px solid black;
-    padding-bottom: 10px;
-}
 /* Footer */
 footer {
     background-color: #333;
